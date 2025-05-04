@@ -50,13 +50,13 @@ python blurwebcam.py --mode video --filepath <path_to_video>
 ## Example Outputs
 
 ### Input Image
-![Input Image](img1.jpg)
+![Input Image](./img1.jpg)
 
 ### Blurred Image Output
-![Blurred Image](blurred_images/blurred_img.jpg)
+![Blurred Image](./blurred_images/blurred_img.jpg)
 
 ### Blurred Video Output
-[Download Blurred Video](blurred_images/blurred_video.mp4)
+[Download Blurred Video](./blurred_images/blurred_video.mp4)
 
 ## Project Structure
 ```
